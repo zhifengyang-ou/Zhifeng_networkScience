@@ -282,7 +282,7 @@ seed compounds of a query species X that are producible by the metabolic
 network of a target Y but are not a part of Y’s seed set.
 
 Below is an illustration of the metabolic competition and
-complementarity. ![](KEGG_files/figure-gfm/Diagram.png)
+complementarity. ![](Final-project-report_files/figure-gfm/Diagram.png)
 
 **Fig. 6** The big circle and rectangle represents metabolic network
 while small icons represent metabolites which are also the nodes in
